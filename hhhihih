@@ -4,3 +4,4 @@
 int a = 64
 int b = -245
 int c = 
+if c%5>2 then printf("%
